@@ -1,0 +1,16 @@
+﻿生成启动时间为 2019/1/16 16:21:41。
+     1>项目“D:\cy\c++\interface\computer\computer\computer.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Release\computer.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\cy\c++\interface\computer\Release\computer.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:D:\cy\c++\interface\computer\lib mp3dll.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\computer.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\cy\c++\interface\computer\Release\computer.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\cy\c++\interface\computer\Release\computer.lib" /MACHINE:X86 Release\computer.obj
+         Release\stdafx.obj
+     1>LINK : fatal error LNK1181: cannot open input file 'mp3dll.lib'
+     1>已完成生成项目“D:\cy\c++\interface\computer\computer\computer.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.17
